@@ -1,0 +1,66 @@
+{
+   "token":"MASUKIN TOKEN DISCORD DISINI",
+   "channel_ids":[
+      880804015057821766
+      
+   ],
+   "claim_delay":0,
+   "kak_delay":3,
+   "use_emoji":"<:krappa>",
+   "roll_this":"wa",
+   "rolling":"True",
+   "pkmrolling":"True",
+   "series_list":[
+      "Emergence"
+   ],
+   "namelist":[
+      "Nino Nakano",
+      "Barbara",
+      "Eula",
+      "Kamisato Ayaka",
+      "Ganyu",
+      "Urara Shiraishi",
+      "Maki Zenin",
+      "Leona Miyamura",
+      "Elaina",
+      "Haruka Morishima",
+      "Sena Narumi",
+      "Mizuki Shibata",
+      "La Signora",
+      "Raiden Shogun",
+      "Sangonomiya Kokomi",
+      "Shuka Karino",
+      "Jin-Woo Sung",
+      "Hae-In Cha",
+      "Aoe Nagi",
+      "Black Dragon Witch",
+      "Shinobu Kochou",
+      "Aqua",
+      "Power",
+      "Chizuru Ichinose",
+      "Taiga Aisaka",
+      "Hestia",
+      "Giyuu Tomioka",
+      "Lucy Heartfilia",
+      "Shinobu Oshino",
+      "Echidna",
+      "Tanya Degurechaff",
+      "Inugami Korone",
+      "Jeanne d'Arc",
+      "Usada Pekora"
+   ],
+   "emoji_list":[
+      "kakera",
+      "kakeraT",
+      "kakeraG",
+      "kakeraY",
+      "kakeraO",
+      "kakeraR",
+      "kakeraW",
+      "kakeraL"
+   ],
+   "min_kak":500,
+   "Last_True":"True",
+   "last_claim_min":10,
+   "min_kak_last_min":300
+}
