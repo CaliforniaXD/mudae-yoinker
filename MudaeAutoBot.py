@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# Rangga KNTL
 import discum
 import re
 import asyncio
